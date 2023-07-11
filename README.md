@@ -31,3 +31,7 @@ void loop() {
   prevButtonState = buttonState;
 }
 [iottt.docx](https://github.com/saddamsssssssss/iot/files/12011429/iottt.docx)
+
+
+![image](https://github.com/saddamsssssssss/iot/assets/139205268/821873eb-0c75-4824-865a-e9478e0af985)
+
